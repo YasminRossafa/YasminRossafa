@@ -1,21 +1,68 @@
-## Heyy, eu sou a Yasmin!👋
+# Yasmin Rossafa de Souza
 
-- 🔭 Atualmente estou na faculdade de Ciência da Computação
-- 🌱 Estudando JavaScript e TypeScript
-- 😄 Pronouns: ela/dela
+Desenvolvedora, pesquisadora e educadora com mais de 7 anos de contato com tecnologia. Estudo Ciência da Computação na UFSCar e transito entre desenvolvimento web e mobile, iniciação científica voltada à acessibilidade e coordenação pedagógica. Acredito em tecnologia com propósito e impacto social.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Yas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Yas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Yas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+---
 
-  ##
- 
-<div> 
-  <a href = "mailto:mimirossafa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yasmin-rossafa01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Atuação atual
+
+- **Estagiária · Especialista em ferramentas de gestão** — TaskWork (2025–presente)
+- **Professora de Redação · Coordenadora Pedagógica** — Cursinho Educação e Cidadania (UFSCar)
+- **Bacharelado em Ciência da Computação** — UFSCar, Sorocaba (cursando)
+
+---
+
+## Skills & Tecnologias
+
+**Linguagens**
+
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
+![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+
+**Frameworks & Libs**
+
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg)
+![.NET](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg)
+
+- React · React Native · Angular · .NET · Expo · Gatsby
+
+**Gestão de Projetos**
+- Asana · Smartsheet · ClickUp
+
+**Dados & Ferramentas**
+- Banco de Dados · APIs REST · Git
+
+---
+
+## Pesquisa
+
+**Aplicativo para comunicação de pessoas autistas não verbais** — Iniciação Científica (SPIC · UFSCar)
+
+Dois anos de pesquisa na área de banco de dados, desenvolvendo um aplicativo voltado a facilitar a comunicação de pessoas autistas não verbais. Trabalho em processo de publicação em revistas e congressos.
+
+---
+
+## Idiomas
+
+| Idioma | Nível |
+|---|---|
+| Português | Nativo |
+| Inglês | Fluente |
+| Espanhol | Intermediário |
+| Francês | Estudando |
+
+---
+
+## Contato
+
+- **E-mail:** mimirossafa@gmail.com
+- **LinkedIn:** [yasmin-rossafa01](https://www.linkedin.com/in/yasmin-rossafa01/)
+- **GitHub:** [YasminRossafa](https://github.com/YasminRossafa)
+- **WhatsApp:** (11) 98650-0910
