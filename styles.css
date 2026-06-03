@@ -369,7 +369,7 @@ body{
   .stat .n{font-size:1.5rem}
   .proj-grid{grid-template-columns:1fr}
   .skill-groups{grid-template-columns:1fr}
-  .langs{grid-template-columns:repeat(2,1fr)}
+  .langs{grid-template-columns:1fr}
   .courses{flex-direction:column}
   .sec-head{padding:20px 4px;gap:12px}
   .contact{gap:8px}
