@@ -164,7 +164,6 @@ body{
   font-size:clamp(1.3rem,3vw,1.85rem);letter-spacing:-.01em;flex:1;
   transition:.2s;
 }
-.sec-meta{font-size:13.5px;color:var(--fg-faint);margin-right:8px;font-family:var(--font-mono)}
 .chev{
   width:34px;height:34px;flex:none;border-radius:9px;border:1px solid var(--line);
   display:grid;place-items:center;transition:.25s ease;color:var(--fg-dim);
@@ -337,18 +336,45 @@ body{
 /* ============================================================
    RESPONSIVE
    ============================================================ */
+
+/* --- Tablet / mid (≤900px) --- */
+@media (max-width:900px){
+  .hero-grid{gap:28px}
+  .portrait{width:clamp(120px,18vw,200px)}
+  .stats{grid-template-columns:repeat(2,1fr)}
+}
+
+/* --- Mobile (≤760px) --- */
 @media (max-width:760px){
   body{font-size:16px}
   .hero{padding:48px 0 18px}
   .hero-grid{grid-template-columns:1fr;gap:28px}
   .portrait{order:-1;width:128px}
-  .stats{grid-template-columns:repeat(2,1fr)}
   .hero-side{align-items:center}
   .btn-cv{width:auto}
   .contact{margin-top:26px}
+  .chip{max-width:100%}
+  .chip span:not(.k){overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
   .sec-body .pad{padding-left:8px}
   .tl-when{margin-left:0;width:100%}
   .foot{flex-direction:column;align-items:flex-start;gap:10px}
+}
+
+/* --- Small phones (≤480px) --- */
+@media (max-width:480px){
+  .wrap{padding:0 16px}
+  .hero{padding:36px 0 14px}
+  .stats{grid-template-columns:repeat(2,1fr)}
+  .stat{padding:16px 14px}
+  .stat .n{font-size:1.5rem}
+  .proj-grid{grid-template-columns:1fr}
+  .skill-groups{grid-template-columns:1fr}
+  .langs{grid-template-columns:repeat(2,1fr)}
+  .courses{flex-direction:column}
+  .sec-head{padding:20px 4px;gap:12px}
+  .contact{gap:8px}
+  .chip{padding:9px 12px;font-size:13.5px}
+  .foot{padding:32px 0 48px}
 }
 @media (prefers-reduced-motion:reduce){
   *{animation:none!important;transition:none!important}
